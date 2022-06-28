@@ -2,7 +2,7 @@
 
 A boilerplate React app with default storybook configuration for use in regression testing the [Same Story? backend](https://github.com/engi-network/same-story-api). 
 
-Also serves as a model repo for use with the Same Story? Figma plugin.
+Also serves as a model repo for use with the [Same Story? Figma plugin](https://github.com/engi-network/figma-plugin).
 
 ### Run `storycap`
 
